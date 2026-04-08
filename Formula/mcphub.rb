@@ -1,7 +1,7 @@
 class Mcphub < Formula
   desc "The package manager for Model Context Protocol (MCP) servers"
   homepage "https://github.com/Ricardo-M-L/mcphub"
-  url "https://github.com/Ricardo-M-L/mcphub/archive/refs/tags/v0.1.0.tar.gz"
+  url "https://github.com/Ricardo-M-L/mcphub/archive/refs/tags/v0.2.0.tar.gz"
   sha256 ""
   license "Apache-2.0"
   head "https://github.com/Ricardo-M-L/mcphub.git", branch: "master"
